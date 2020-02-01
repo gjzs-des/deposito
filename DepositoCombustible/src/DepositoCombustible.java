@@ -81,7 +81,7 @@ public class DepositoCombustible {
 	* <br> postcondicion  	depNivel &gt; depNivel_inicial 
 	* <hr>
 	* 
-	* @param amount 	Cantidad de combustible que añade
+	* @param amount 	Cantidad de combustible que añad
 	* 
 	*/
     public void fill(double amount){
